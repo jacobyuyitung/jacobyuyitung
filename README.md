@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[I've migrated everything over to my main account here at https://github.com/jakekyee/](https://github.com/jakekyee/)
 <!--
 **jacobyuyitung/jacobyuyitung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
